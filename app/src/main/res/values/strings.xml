@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">listview</string>
+    <string-array name="fname">
+        <item> baqer </item>
+        <item>hosein</item>
+        <item>mohammad</item>
+        <item>zahra</item>
+        <item>fatemeh</item>
+        <item>somayeh</item>
+        <item>asma</item>
+        <item>masumeh</item>
+        <item>mahdi</item>
+        <item>tahereh</item>
+        <item>hamideh</item>
+
+    </string-array>
+
+
+    <string-array name="lastname">
+        <item> heydari </item>
+        <item>rezayi</item>
+        <item>atayi</item>
+        <item>qamsari</item>
+        <item>mohseni</item>
+        <item>amiri</item>
+        <item>mohseni</item>
+        <item>faqihi</item>
+        <item>javadi</item>
+        <item>qolami</item>
+        <item>sadeqi</item>
+
+    </string-array>
+
+
+    <string-array name="phone">
+        <item> 09123454545 </item>
+        <item>0911432434</item>
+        <item>0954543435</item>
+        <item>09023254545</item>
+        <item>0913354354</item>
+        <item>09154645436</item>
+        <item>0916984898</item>
+        <item>09174543543</item>
+        <item>09188843543</item>
+        <item>09235554545</item>
+        <item>09121000000</item>
+
+    </string-array>
+
+
+</resources>
